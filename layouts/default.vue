@@ -6,8 +6,11 @@
   </div>
 </template>
 <style>
-html, body {
+html,
+body {
   font-family: "Inter", sans-serif;
+  background-color: white;
+  transition: color 300ms, background-color 300ms;
 }
 .force-center {
   display: grid;

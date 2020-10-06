@@ -15,7 +15,7 @@
           <img
             class="mx-auto h-24"
             src="https://wac-cdn.atlassian.com/dam/jcr:cd0479fa-ce91-412a-86e8-abcd2362d5bb/software%20jira%20documentation%20confluence.svg?cdnVersion=1280"
-            alt=""
+            alt="image"
           />
           <h3 class="text-2xl font-bold mt-6 mb-3 font-bold">Knowledge management</h3>
           <p class="text-gray-800 leading-relaxed">
@@ -27,7 +27,7 @@
           <img
             class="mx-auto h-24"
             src="https://wac-cdn.atlassian.com/dam/jcr:033e6808-6753-4ebe-a579-8aeca167c743/Software-Git.svg?cdnVersion=1280"
-            alt=""
+            alt="image"
           />
           <h3 class="text-2xl mt-6 font-bold mb-3 font-bold">Development workflow</h3>
           <p class="text-gray-800 leading-relaxed">
@@ -39,7 +39,7 @@
           <img
             class="mx-auto h-24"
             src="https://wac-cdn.atlassian.com/dam/jcr:40d95e12-b2cc-4c19-a0e9-dadef3053949/Software-Hierarchy%20Window.svg?cdnVersion=1280"
-            alt=""
+            alt="image"
           />
           <h3 class="text-2xl mt-6 font-bold mb-3 font-bold">
             Continuous integration and deployment

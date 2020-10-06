@@ -12,7 +12,7 @@
         <img
           class="mx-auto mb-3"
           src="https://wac-cdn.atlassian.com/dam/jcr:fd487e90-1e57-4412-9c23-5fb20f30ae07/Access%20module%20image-01.svg?cdnVersion=1280"
-          alt=""
+          alt="image"
         />
         <h3 class="text-4xl mb-3 font-bold">Design</h3>
         <p class="leading-relaxed">
@@ -25,7 +25,7 @@
         <img
           class="mx-auto mb-3"
           src="https://wac-cdn.atlassian.com/dam/jcr:8ebe2a91-8722-4bb9-8b36-07b0177bdf88/Premium%20Cloud%20module%20image.svg?cdnVersion=1280"
-          alt=""
+          alt="image"
         />
         <h3 class="text-4xl mb-3 font-bold">Jira Software Premium</h3>
         <p class="leading-relaxed">

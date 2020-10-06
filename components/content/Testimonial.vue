@@ -9,7 +9,7 @@
       <div class="w-full lg:px-64 mb-8">
         <img
           src="https://wac-cdn.atlassian.com/dam/jcr:527cb590-de73-4de8-832e-b255d9314946/Partner-Logos.png?cdnVersion=1280"
-          alt=""
+          alt="image"
         />
       </div>
     </div>

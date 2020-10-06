@@ -17,7 +17,7 @@
           <img
             src="https://wac-cdn.atlassian.com/dam/jcr:c8a73824-72f9-4f2b-ba05-b2c491b235c7/Get%20it%20on%20Google%20play%20Badge.svg?cdnVersion=1280"
             height="40px"
-            alt=""
+            alt="image"
             srcset=""
           />
         </button>
@@ -27,7 +27,7 @@
           <img
             src="https://wac-cdn.atlassian.com/dam/jcr:797c71d8-f84e-425f-8183-25a9eee39453/Download_on_the_App_Store_Badge_US-UK_135x40.svg?cdnVersion=1280"
             height="40px"
-            alt=""
+            alt="image"
             srcset=""
           />
         </button>
@@ -52,7 +52,7 @@
               src="https://wac-cdn.atlassian.com/dam/jcr:1d6b77d7-21b5-4513-b38f-8debe5d9c5e6/trulia-logo.svg?cdnVersion=1280"
               style="height:50px;"
               class="my-5 lg:m-0"
-              alt=""
+              alt="image"
             />
           </div>
           <h1 class="title-font font-bold text-3xl mb-2 text-gray-900">

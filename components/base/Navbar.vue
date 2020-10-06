@@ -1,17 +1,19 @@
 <template>
   <header
-    class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-0 py-2 sticky top-0 shadow-lg"
+    class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-2 py-5 sticky top-0 shadow-lg"
   >
     <div class="flex-1 flex justify-between items-center">
       <a href="#">
         <img
           src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1280"
-          alt=""
-          style="height:20px"
+          alt="image"
+          style="height: 20px"
         />
       </a>
     </div>
-
+    <button @click="toggleDarkMode" class="focus:outline-none px-2">
+      {{ isDarkModeOn ? "Light" : "Dark" }} Mode
+    </button>
     <label for="menu-toggle" class="pointer-cursor lg:hidden block"
       ><svg
         class="fill-current text-gray-900"
@@ -72,7 +74,33 @@
   </header>
 </template>
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      isDarkModeOn: false,
+    };
+  },
+  methods: {
+    toggleDarkMode() {
+      var ele = document.querySelector("html");
+      var imgs = document.querySelectorAll("img");
+      if (!this.isDarkModeOn) {
+        ele.style.filter = "invert(1) hue-rotate(180deg)";
+        console.log(imgs);
+        imgs.forEach((imgel) => {
+          imgel.style.filter = "invert(1) hue-rotate(180deg)";
+        });
+        this.isDarkModeOn = !this.isDarkModeOn;
+      } else {
+        ele.style.filter = "";
+        imgs.forEach((imgel) => {
+          imgel.style.filter = "";
+        });
+        this.isDarkModeOn = !this.isDarkModeOn;
+      }
+    },
+  },
+};
 </script>
 
 <style>

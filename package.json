@@ -1,6 +1,7 @@
 {
   "name": "instruo-task-jira",
   "version": "1.0.0",
+  "description": "Clone of the Jira webpage, under the atlassian website, written in Nuxt.js and TailwindCSS, by @sadn1ck",
   "private": true,
   "scripts": {
     "dev": "nuxt",

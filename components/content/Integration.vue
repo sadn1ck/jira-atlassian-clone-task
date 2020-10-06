@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="force-center">
-      <img src="https://i.imgur.com/NUnJnbY.png" alt="" srcset="" />
+      <img src="https://i.imgur.com/NUnJnbY.png" alt="image" srcset="" />
     </div>
   </section>
 </template>

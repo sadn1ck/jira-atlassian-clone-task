@@ -22,7 +22,7 @@
             >
               <img
                 src="https://wac-cdn.atlassian.com/dam/jcr:f7f91d46-4ce9-4955-bcdb-2967d9a5e9aa/organize-workflow.svg?cdnVersion=1280"
-                alt=""
+                alt="image"
                 srcset=""
               />
             </div>
@@ -43,7 +43,7 @@
             >
               <img
                 src="https://wac-cdn.atlassian.com/dam/jcr:73199416-ccfe-4f9b-84b2-570b401a7870/chart-line.svg?cdnVersion=1280"
-                alt=""
+                alt="image"
                 srcset=""
               />
             </div>
@@ -64,7 +64,7 @@
             >
               <img
                 src="https://wac-cdn.atlassian.com/dam/jcr:135905fd-33ad-4cd7-adf0-02f93fcbadb6/finance-dollar%20dotted.svg?cdnVersion=1280"
-                alt=""
+                alt="image"
                 srcset=""
               />
             </div>
@@ -85,7 +85,7 @@
             >
               <img
                 src="https://wac-cdn.atlassian.com/dam/jcr:c656d0c9-53d1-413a-ae75-54c9f93d70b9/transparent%20icon.svg?cdnVersion=1280"
-                alt=""
+                alt="image"
                 srcset=""
               />
             </div>
@@ -106,7 +106,7 @@
             >
               <img
                 src="https://wac-cdn.atlassian.com/dam/jcr:0f07dc8d-04b9-43a2-b9d9-75d68b686a5b/status-check.svg?cdnVersion=1280"
-                alt=""
+                alt="image"
                 srcset=""
               />
             </div>
@@ -127,7 +127,7 @@
             >
               <img
                 src="https://wac-cdn.atlassian.com/dam/jcr:90691311-2ab1-41ff-ae98-a1ef782c5a96/organize-expand.svg?cdnVersion=1280"
-                alt=""
+                alt="image"
                 srcset=""
               />
             </div>

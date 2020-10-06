@@ -1,8 +1,8 @@
-# instruo-task-jira
+# Clone of the Jira Webpage, made in Nuxt and TailwindCSS
 
 ## Build Setup
 
-```bash
+``` bash
 # install dependencies
 $ yarn install
 

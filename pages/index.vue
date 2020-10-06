@@ -40,19 +40,24 @@ export default {
     CTA,
     Design,
     Security,
-    Reviews
+    Reviews,
   },
   head() {
     return {
       title: "Jira, by Atlassian | Clone",
-      script: [
+      meta: [
         {
-          src:
-            "https://cdn.jsdelivr.net/gh/akhilarjun/tinylibs@latest/themejs/theme.min.js",
-          type: "text/javascript",
-          onload: 'setupThemeIcon()',
-          defer: true,
+          property: "og:title",
+          content: `Jira, by Atlassian | Clone`,
         },
+        {
+          property: "og:description",
+          content: "Clone of the Jira webpage, under the atlassian website, written in Nuxt.js and TailwindCSS, by @sadn1ck",
+        },
+        {
+          property: 'og:image',
+          content: '/icon.png'
+        }
       ],
     };
   },

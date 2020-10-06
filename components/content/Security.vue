@@ -7,7 +7,7 @@
           <img
             class="mx-auto"
             src="https://wac-cdn.atlassian.com/dam/jcr:5fc4019a-9fd4-4571-a754-ee3a33b8cc14/PRIVACY@2x.png?cdnVersion=1280"
-            alt=""
+            alt="image"
           />
           <h3 class="text-2xl mt-6 mb-3 font-bold">Privacy</h3>
           <p class="text-gray-800 leading-relaxed">
@@ -19,7 +19,7 @@
           <img
             class="mx-auto"
             src="https://wac-cdn.atlassian.com/dam/jcr:d7803d4b-80d4-4fb8-a358-b971f497d3ef/DATAENCRYPTION@2x.png?cdnVersion=1280"
-            alt=""
+            alt="image"
           />
           <h3 class="text-2xl mt-6 mb-3 font-bold">Data Encryption</h3>
           <p class="text-gray-800 leading-relaxed">
@@ -31,7 +31,7 @@
           <img
             class="mx-auto"
             src="https://wac-cdn.atlassian.com/dam/jcr:8864d1c9-fa84-47f8-806b-e58b733e5689/icons-security-shield%20check-dark-60x72@2x.png?cdnVersion=1280"
-            alt=""
+            alt="image"
           />
           <h3 class="text-2xl mt-6 mb-3 font-bold">Compliance</h3>
           <p class="text-gray-800 leading-relaxed">
