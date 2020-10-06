@@ -39,7 +39,7 @@
       >
         <img
           class="object-cover object-center w-full h-full"
-          src="https://wac-cdn.atlassian.com/dam/jcr:dd7fd4eb-f9fe-4047-9fff-346f6579c622/jira_trulia_customer_story.png?cdnVersion=1280"
+          src="/review.webp"
           alt="stats"
         />
       </div>
