@@ -1,6 +1,6 @@
 <template>
   <header
-    class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-2 py-5 sticky top-0 shadow-lg"
+    class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-2 py-5 sticky top-0"
     style="z-index:999999"
   >
     <div class="flex-1 flex justify-between items-center">
