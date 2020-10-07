@@ -46,11 +46,14 @@ export default {
   pwa: {
     manifest: {
       name: 'Jira, by Atlassian | Clone',
-      lang: 'en',
-      useWebmanifestExtension: false
+      lang: 'en'
     },
-    meta:{
-      theme_color: "#fff"
+    meta: {
+      theme_color: "#232323",
+      name: 'Jira, by Atlassian | Clone',
+      author: '@sadn1ck',
+      favicon: '/icon.png',
+      nativeUI: true
     }
   },
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
